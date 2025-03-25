@@ -3,7 +3,7 @@
 
 ## Hi 👋, I'm Pedro Luis Ortega 
 
-Here are some ideas to get you started:
+
 
 - 💼 My Professional Profile: [LinkedIn](https://www.linkedin.com/in/pedro-luis-ortega-aguilar-058569139/)
   <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+   -->
 <h3>Languages and Tools:</h3>
 
 <p>
