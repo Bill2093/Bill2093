@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 ## Hi 👋, I'm Pedro Luis Ortega 
 
 Here are some ideas to get you started:
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=cyan"/>
 <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
--->
