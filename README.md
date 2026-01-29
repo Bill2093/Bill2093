@@ -4,6 +4,10 @@
 
 
 - 💼 My Professional Profile: [LinkedIn](https://www.linkedin.com/in/pedro-luis-ortega-aguilar-058569139/)
+- 🧩 Backend Developer
+- 🎨 Frontend Developer
+- 🚀 Cloud Developer
+- 🧮 Data Developer
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
