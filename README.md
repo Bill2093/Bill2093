@@ -9,8 +9,8 @@
 - 🚀 Cloud Developer
 - 🧮 Data Developer
 
-- 💼 My Professional Profile: [LinkedIn](https://www.linkedin.com/in/pedro-luis-ortega-aguilar-058569139)
 <!--
+- 💼 My Professional Profile: [LinkedIn](https://www.linkedin.com/in/pedro-luis-ortega-aguilar-058569139)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
